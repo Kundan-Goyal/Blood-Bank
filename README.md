@@ -13,7 +13,7 @@ The **Blood-Bank** project is a MERN stack application designed to streamline an
 
 ## Technologies Used
 
-- **Frontend**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Frontend**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [ReactJs](https://react.dev/)
 - **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
 - **Database**: [MongoDB](https://www.mongodb.com/)
 
