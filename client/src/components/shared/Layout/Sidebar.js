@@ -64,7 +64,7 @@ const Sidebar = () => {
                 }`}
               >
                 <i className="fa-solid fa-hospital"></i>
-                <Link to="/org-list">Organisation List</Link>
+                <Link to="/org-list">Organization List</Link>
               </div>
             </>
           )}
